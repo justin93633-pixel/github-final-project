@@ -1,0 +1,9 @@
+{
+  "url": "https://api.github.com/repos/ibm-developer-skills-network/mcino-Introduction-to-Git-and-GitHub/pulls/1",
+  "state": "open",
+  "user": { "login": "justin93633-pixel" },
+  "head": {
+    "label": "justin93633-pixel:bug-fix-typo",
+    "repo": { "full_name": "YOUR_USERNAME/mcino-Introduction-to-Git-and-GitHub" }
+  }
+}
